@@ -12,12 +12,12 @@ My current objective is to complete my Certificate IV in Cybersecurity and gain 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| -        | <a href="https://google.com">Detection Lab</a>|
-| -        | <a href="https://google.com">Detection Lab</a>|
-| -        | SOC Automation Lab|
-| -        | SOC Automation Lab|
-| -        | SOC Automation Lab|
-| -        | SOC Automation Lab|
+| Log Ingestion and Analysis, Attack Detection        | <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>|
+| -        |-|
+| -        |-|
+| -        |-|
+| -        |-|
+| -        |-|
 
 ## Tools
 
@@ -70,5 +70,5 @@ My current objective is to complete my Certificate IV in Cybersecurity and gain 
 </div>
 
 ## Projects
-- <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Installation and Log Analysis</a>
+- <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>
 
