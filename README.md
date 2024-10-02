@@ -70,5 +70,4 @@ My current objective is to complete my Certificate IV in Cybersecurity and gain 
 </div>
 
 ## Projects
-- Splunk Installation and Log Analysis 
-- <a href="(https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection)">Splunk Installation and Log Analysis </a>|
+- <a href="(https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection)"> Splunk Installation and Log Analysis </a>
