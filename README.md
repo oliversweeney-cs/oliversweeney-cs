@@ -20,6 +20,7 @@ My current objective is to complete my Certificate IV in Cybersecurity and gain 
 | -        |-|
 
 ## Tools
+*Below are tools I have had hands-on experience with throughout my cyber security learning.*
 
 ### Network
 <div>
@@ -29,6 +30,7 @@ My current objective is to complete my Certificate IV in Cybersecurity and gain 
     <img src="https://img.shields.io/badge/-Ettercap-FF6347?&style=for-the-badge&logo=Ettercap&logoColor=white" alt="Ettercap" />
     <img src="https://img.shields.io/badge/-John%20the%20Ripper-8B0000?&style=for-the-badge&logo=JohnTheRipper&logoColor=white" alt="John the Ripper" />
     <img src="https://img.shields.io/badge/-Netcat-000080?&style=for-the-badge&logo=Netcat&logoColor=white" alt="Netcat" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Packet Tracer" />
 
 
 </div>
@@ -61,10 +63,11 @@ My current objective is to complete my Certificate IV in Cybersecurity and gain 
 ## Certifications and Courses
 
 <div>
+<img src="https://img.shields.io/badge/-Certificate%20IV%20Cyber%20Security-FF0000?&style=for-the-badge&logo=TAFE&logoColor=white" alt="TAFE Queensland - Certificate IV Cyber Security" />
 <img src="https://img.shields.io/badge/-Endpoint%20Security-04b4e7?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Networking Academy - Endpoint Security" />
 <img src="https://img.shields.io/badge/-Networking%20Basics-04b4e7?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Networking Academy - Networking Basics" />
 <img src="https://img.shields.io/badge/-Cybersecurity%20Essentials-74bf4b?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Networking Academy - Cybersecurity Essentials" />
-<img src="https://img.shields.io/badge/-Certificate%20IV%20Cyber%20Security-FF0000?&style=for-the-badge&logo=TAFE&logoColor=white" alt="TAFE Queensland - Certificate IV Cyber Security" />
+
 
 
 </div>
