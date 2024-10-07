@@ -1,6 +1,5 @@
  Hello, I'm OliverSweeney-CS
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an aspiring cybersecurity analyst focusing on penetration testing and incident response; I am passionate about exploring and mastering various tools to uncover security vulnerabilities and enhance system defences. My projects aim to demonstrate my hands-on experience in offensive and defensive security.
 
