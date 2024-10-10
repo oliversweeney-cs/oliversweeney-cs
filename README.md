@@ -56,6 +56,7 @@ My current objective is to complete my Certificate IV in Cybersecurity and gain 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic%20Stack%20(ELK)-005571?&style=for-the-badge&logo=Elastic&logoColor=white" alt="Elastic Stack (ELK)" />
 
 </div>
 
