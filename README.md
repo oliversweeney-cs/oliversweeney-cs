@@ -11,8 +11,8 @@ My current objective is to complete my Certificate IV in Cybersecurity and gain 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Ingestion and Analysis, Attack Detection        | <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>|
-| -        |-|
+| Log Ingestion and Analysis, Attack Detection | <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>|
+|  Honeypot Deployment, Attack Detection, Log Analysis, Multi-Service Honeypot Configuration and Threat Intelligence Gathering | <a href="https://github.com/oliversweeney-cs/Honeypot-Deployment-/tree/main">Honeypot Deployment</a>|
 | -        |-|
 | -        |-|
 | -        |-|
