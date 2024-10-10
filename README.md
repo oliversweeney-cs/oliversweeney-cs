@@ -73,4 +73,4 @@ My current objective is to complete my Certificate IV in Cybersecurity and gain 
 
 ## Projects
 - <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>
-
+- <a href="https://github.com/oliversweeney-cs/Honeypot-Deployment-/tree/main">Honeypot Deployment</a>
