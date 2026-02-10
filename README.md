@@ -1,11 +1,11 @@
  Hello, I'm OliverSweeney-CS
 
 
-I am an aspiring cybersecurity analyst focusing on penetration testing and incident response; I am passionate about exploring and mastering various tools to uncover security vulnerabilities and enhance system defences. My projects aim to demonstrate my hands-on experience in offensive and defensive security.
+I am an aspiring cybersecurity analyst focusing on defence and incident response; I am passionate about exploring and mastering various tools to uncover security vulnerabilities and enhance system defences. My projects aim to demonstrate my hands-on experience in defensive security.
 
 ## Objective
 
-My current objective is to complete my Certificate IV in Cybersecurity and gain employment in the industry where I can apply the skills and knowledge I have acquired. 
+My current objective is to gain employment in the industry where I can apply the skills and knowledge I have acquired. 
 
 ## Skills
 
