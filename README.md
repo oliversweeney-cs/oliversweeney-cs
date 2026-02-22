@@ -9,11 +9,11 @@ My current objective is to gain employment in the industry where I can apply the
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Log Ingestion and Analysis, Attack Detection | <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>|
 | Honeypot Deployment, Attack Detection and Threat Intelligence Gathering | <a href="https://github.com/oliversweeney-cs/Honeypot-Deployment-/tree/main">Honeypot Deployment</a>|
-| -        |-|
+| MYDFIR Splunk101 Capstone Report | <a href="https://github.com/oliversweeney-cs/Splunk101-Capstone-Report/tree/main">Splunk101 Capstone Report</a>
 | -        |-|
 | -        |-|
 | -        |-|
@@ -75,3 +75,4 @@ My current objective is to gain employment in the industry where I can apply the
 ## Projects
 - <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>
 - <a href="https://github.com/oliversweeney-cs/Honeypot-Deployment-/tree/main">Honeypot Deployment</a>
+- <a href="https://github.com/oliversweeney-cs/Splunk101-Capstone-Report/tree/main">Splunk101 Capstone Report</a>
