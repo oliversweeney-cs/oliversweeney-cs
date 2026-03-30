@@ -1,4 +1,5 @@
-Hello, I'm Oliver Sweeney
+Hello, I'm Oliver Sweeney.
+
 Cybersecurity analyst focused on defence and incident response. I build hands-on projects to develop practical skills in threat detection, log analysis, SIEM operations, and incident response workflows. Currently completing the MYDFIR SOC Analyst Accelerator program.
 
 ## Objective
