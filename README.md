@@ -16,7 +16,7 @@ My current objective is to gain employment in the industry where I can apply the
 | MYDFIR Splunk101 Capstone Report | <a href="https://github.com/oliversweeney-cs/Splunk101-Capstone-Report/blob/main/README.md">Splunk101 Capstone Report</a>
 | Active Directory Preoject - Automation and Response | <a href="https://github.com/oliversweeney-cs/Active-Directory-Project---Automation-and-Response/blob/main/README.md">AD Project Automation and Response|
 | Automated Endpoint Containment with SOAR and EDR |<a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project|
-| -        |-|
+| Offline Phishing Email Analysis Tool | <a href="https://github.com/oliversweeney-cs/PhishLens">PhishLens</a>|
 
 ## Tools
 *Below are tools I have had hands-on experience with throughout my cyber security learning.*
@@ -78,3 +78,4 @@ My current objective is to gain employment in the industry where I can apply the
 - <a href="https://github.com/oliversweeney-cs/Splunk101-Capstone-Report/blob/main/README.md">Splunk101 Capstone Report</a>
 - <a href="https://github.com/oliversweeney-cs/Active-Directory-Project---Automation-and-Response/blob/main/README.md">AD Project Automation and Response
 - <a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project
+- <a href="https://github.com/oliversweeney-cs/PhishLens">PhishLens</a>
