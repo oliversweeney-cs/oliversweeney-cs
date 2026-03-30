@@ -1,11 +1,9 @@
- Hello, I'm OliverSweeney-CS
-
-
-I am an aspiring cybersecurity analyst focusing on defence and incident response; I am passionate about exploring and mastering various tools to uncover security vulnerabilities and enhance system defences. My projects aim to demonstrate my hands-on experience in defensive security.
+Hello, I'm Oliver Sweeney
+Cybersecurity analyst focused on defence and incident response. I build hands-on projects to develop practical skills in threat detection, log analysis, SIEM operations, and incident response workflows. Currently completing the MYDFIR SOC Analyst Accelerator program.
 
 ## Objective
 
-My current objective is to gain employment in the industry where I can apply the skills and knowledge I have acquired. 
+Seeking a SOC Analyst role where I can apply my skills in threat detection, alert triage, and incident response in a production environment.
 
 ## Skills
 
