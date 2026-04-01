@@ -17,6 +17,7 @@ Seeking a SOC Analyst role where I can apply my skills in threat detection, aler
 | Automated Endpoint Containment with SOAR and EDR |<a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project|
 | Offline Phishing Email Analysis Tool | <a href="https://github.com/oliversweeney-cs/PhishLens">PhishLens</a>|
 | IOC Enrichment CLI Tool | <a href="https://github.com/oliversweeney-cs/ioc-enrich">ioc-enrich</a>|
+| Automated Network Packet Analysis | <a href="https://github.com/oliversweeney-cs/PCAPLens">PCAPLens</a> |
 
 ## Tools
 *Below are tools I have had hands-on experience with throughout my cyber security learning.*
@@ -80,3 +81,4 @@ Seeking a SOC Analyst role where I can apply my skills in threat detection, aler
 - <a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project
 - <a href="https://github.com/oliversweeney-cs/PhishLens">PhishLens</a>
 - <a href="https://github.com/oliversweeney-cs/ioc-enrich">ioc-enrich</a>
+- <a href="https://github.com/oliversweeney-cs/PCAPLens">PCAPLens</a>
