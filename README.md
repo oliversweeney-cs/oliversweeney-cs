@@ -1,6 +1,6 @@
 Hello, I'm Oliver Sweeney.
 
-Cybersecurity analyst focused on defence and incident response. I build hands-on projects to develop practical skills in threat detection, log analysis, SIEM operations, and incident response workflows. Currently completing the MYDFIR SOC Analyst Accelerator program.
+Cybersecurity analyst focused on defence and incident response. I build custom Python-based security tools — including phishing email analysers, PCAP parsers, IOC enrichment utilities, and autoruns persistence detectors — to solve real SOC workflow problems. Currently completing the MYDFIR SOC Analyst Accelerator program and the TCM Security Practical SOC Analyst Associate (PSAA) certification.
 
 ## Objective
 
@@ -19,6 +19,14 @@ Seeking a SOC Analyst role where I can apply my skills in threat detection, aler
 | IOC Enrichment CLI Tool | <a href="https://github.com/oliversweeney-cs/ioc-enrich">ioc-enrich</a>|
 | Automated Network Packet Analysis | <a href="https://github.com/oliversweeney-cs/PCAPLens">PCAPLens</a> |
 | Autoruns Persistence Analysis with MITRE ATT&CK Mapping | <a href="https://github.com/oliversweeney-cs/autorunslens">AutoRunsLens</a> |
+
+## Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" alt="PowerShell" />
+
+</div>
 
 ## Tools
 *Below are tools I have had hands-on experience with throughout my cyber security learning.*
@@ -102,13 +110,12 @@ Seeking a SOC Analyst role where I can apply my skills in threat detection, aler
 
 </div>
 
-## Projects
-- <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>
-- <a href="https://github.com/oliversweeney-cs/Honeypot-Deployment-/tree/main">Honeypot Deployment</a>
-- <a href="https://github.com/oliversweeney-cs/Splunk101-Capstone-Report/blob/main/README.md">Splunk101 Capstone Report</a>
-- <a href="https://github.com/oliversweeney-cs/Active-Directory-Project---Automation-and-Response/blob/main/README.md">AD Project Automation and Response</a>
-- <a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project</a>
-- <a href="https://github.com/oliversweeney-cs/PhishLens">PhishLens</a>
-- <a href="https://github.com/oliversweeney-cs/ioc-enrich">ioc-enrich</a>
-- <a href="https://github.com/oliversweeney-cs/PCAPLens">PCAPLens</a>
-- <a href="https://github.com/oliversweeney-cs/autorunslens">AutoRunsLens</a>
+## Project Highlights
+- <a href="https://github.com/oliversweeney-cs/autorunslens">AutoRunsLens</a> — Web app that analyses Sysinternals Autoruns CSV exports with heuristic risk scoring, MITRE ATT&CK mapping, VirusTotal enrichment, baseline comparison, and PDF reporting
+- <a href="https://github.com/oliversweeney-cs/PhishLens">PhishLens</a> — Offline phishing email analysis tool that extracts and analyses headers, URLs, and attachments from .eml files
+- <a href="https://github.com/oliversweeney-cs/PCAPLens">PCAPLens</a> — Automated network packet analysis tool for PCAP files
+- <a href="https://github.com/oliversweeney-cs/ioc-enrich">ioc-enrich</a> — CLI tool for enriching IOCs (IPs, domains, hashes) against threat intelligence sources
+- <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a> — End-to-end log ingestion, analysis, and attack detection using Splunk
+- <a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project</a> — Automated endpoint containment using SOAR and EDR integration
+- <a href="https://github.com/oliversweeney-cs/Honeypot-Deployment-/tree/main">Honeypot Deployment</a> — Honeypot deployment for attack detection and threat intelligence gathering
+- <a href="https://github.com/oliversweeney-cs/Active-Directory-Project---Automation-and-Response/blob/main/README.md">AD Project Automation and Response</a> — Active Directory security automation and incident response
