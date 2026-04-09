@@ -12,9 +12,9 @@ Seeking a SOC Analyst role where I can apply my skills in threat detection, aler
 |-----------------------------------------------|----------------------------|
 | Log Ingestion and Analysis, Attack Detection | <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>|
 | Honeypot Deployment, Attack Detection and Threat Intelligence Gathering | <a href="https://github.com/oliversweeney-cs/Honeypot-Deployment-/tree/main">Honeypot Deployment</a>|
-| MYDFIR Splunk101 Capstone Report | <a href="https://github.com/oliversweeney-cs/Splunk101-Capstone-Report/blob/main/README.md">Splunk101 Capstone Report</a>
-| Active Directory Preoject - Automation and Response | <a href="https://github.com/oliversweeney-cs/Active-Directory-Project---Automation-and-Response/blob/main/README.md">AD Project Automation and Response|
-| Automated Endpoint Containment with SOAR and EDR |<a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project|
+| MYDFIR Splunk101 Capstone Report | <a href="https://github.com/oliversweeney-cs/Splunk101-Capstone-Report/blob/main/README.md">Splunk101 Capstone Report</a>|
+| Active Directory Project - Automation and Response | <a href="https://github.com/oliversweeney-cs/Active-Directory-Project---Automation-and-Response/blob/main/README.md">AD Project Automation and Response</a>|
+| Automated Endpoint Containment with SOAR and EDR |<a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project</a>|
 | Offline Phishing Email Analysis Tool | <a href="https://github.com/oliversweeney-cs/PhishLens">PhishLens</a>|
 | IOC Enrichment CLI Tool | <a href="https://github.com/oliversweeney-cs/ioc-enrich">ioc-enrich</a>|
 | Automated Network Packet Analysis | <a href="https://github.com/oliversweeney-cs/PCAPLens">PCAPLens</a> |
@@ -32,13 +32,17 @@ Seeking a SOC Analyst role where I can apply my skills in threat detection, aler
     <img src="https://img.shields.io/badge/-John%20the%20Ripper-8B0000?&style=for-the-badge&logo=JohnTheRipper&logoColor=white" alt="John the Ripper" />
     <img src="https://img.shields.io/badge/-Netcat-000080?&style=for-the-badge&logo=Netcat&logoColor=white" alt="Netcat" />
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Packet Tracer" />
-
+    <img src="https://img.shields.io/badge/-tcpdump-4682B4?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="tcpdump" />
+    <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=Snort&logoColor=white" alt="Snort" />
 
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Sysmon" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-6C3EC6?&style=for-the-badge&logo=LimaCharlie&logoColor=white" alt="LimaCharlie" />
+    <img src="https://img.shields.io/badge/-Sysinternals_Autoruns-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Sysinternals Autoruns" />
 
 </div>
 
@@ -62,6 +66,30 @@ Seeking a SOC Analyst role where I can apply my skills in threat detection, aler
 
 </div>
 
+### Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/-YARA-4B0082?&style=for-the-badge&logo=YARA&logoColor=white" alt="YARA" />
+    <img src="https://img.shields.io/badge/-MISP-FFC107?&style=for-the-badge&logo=MISP&logoColor=black" alt="MISP" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" alt="VirusTotal" />
+
+</div>
+
+### Digital Forensics
+<div>
+    <img src="https://img.shields.io/badge/-FTK_Imager-2E7D32?&style=for-the-badge&logo=Forensics&logoColor=white" alt="FTK Imager" />
+    <img src="https://img.shields.io/badge/-CyberChef-FF6F00?&style=for-the-badge&logo=CyberChef&logoColor=white" alt="CyberChef" />
+
+</div>
+
+### Malware Analysis & Sandboxing
+<div>
+    <img src="https://img.shields.io/badge/-Hybrid_Analysis-1A237E?&style=for-the-badge&logo=CrowdStrike&logoColor=white" alt="Hybrid Analysis" />
+    <img src="https://img.shields.io/badge/-Joe_Sandbox-00BCD4?&style=for-the-badge&logo=JoeSandbox&logoColor=white" alt="Joe Sandbox" />
+    <img src="https://img.shields.io/badge/-Any.Run-1976D2?&style=for-the-badge&logo=Any.Run&logoColor=white" alt="Any.Run" />
+    <img src="https://img.shields.io/badge/-PhishTool-00897B?&style=for-the-badge&logo=PhishTool&logoColor=white" alt="PhishTool" />
+
+</div>
+
 ## Certifications and Courses
 
 <div>
@@ -78,8 +106,8 @@ Seeking a SOC Analyst role where I can apply my skills in threat detection, aler
 - <a href="https://github.com/oliversweeney-cs/Splunk-Log-Analysis-and-Attack-Detection">Splunk Log Analysis and Attack Detection</a>
 - <a href="https://github.com/oliversweeney-cs/Honeypot-Deployment-/tree/main">Honeypot Deployment</a>
 - <a href="https://github.com/oliversweeney-cs/Splunk101-Capstone-Report/blob/main/README.md">Splunk101 Capstone Report</a>
-- <a href="https://github.com/oliversweeney-cs/Active-Directory-Project---Automation-and-Response/blob/main/README.md">AD Project Automation and Response
-- <a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project
+- <a href="https://github.com/oliversweeney-cs/Active-Directory-Project---Automation-and-Response/blob/main/README.md">AD Project Automation and Response</a>
+- <a href="https://github.com/oliversweeney-cs/SOAR-EDR-Project/blob/main/README.md">SOAR-EDR-Project</a>
 - <a href="https://github.com/oliversweeney-cs/PhishLens">PhishLens</a>
 - <a href="https://github.com/oliversweeney-cs/ioc-enrich">ioc-enrich</a>
 - <a href="https://github.com/oliversweeney-cs/PCAPLens">PCAPLens</a>
